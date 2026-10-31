@@ -425,8 +425,6 @@ footer h2 {
 
 ![alt text](image.png)
 
-![alt text](image-3.png)
 
-![alt text](image-2.png)
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
